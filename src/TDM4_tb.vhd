@@ -15,7 +15,9 @@
 --| CREATED       : 03/2017 Last modified on 06/24/2020
 --| DESCRIPTION   : This file tests the 4 to 1 TDM.
 --|
---|
+--| DOCUMENTATION: I uploaded my waveform and testbench to ChatGPT
+--| to ask if my TDM4 is working correctly given my provided inputs and the
+--| waveform output
 --+----------------------------------------------------------------------------
 --|
 --| REQUIRED FILES :
